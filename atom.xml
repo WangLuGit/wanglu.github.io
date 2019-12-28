@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-28T09:49:05.568Z</updated>
+  <updated>2019-12-28T10:04:51.004Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,78 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于工具</title>
+    <link href="http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E5%B7%A5%E5%85%B7/"/>
+    <id>http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E5%B7%A5%E5%85%B7/</id>
+    <published>2019-12-28T06:21:51.000Z</published>
+    <updated>2019-12-28T10:04:51.004Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个贴计划写我关于工具的理解，<br>大纲：</p><ul><li>什么是工具？<ul><li>历史</li><li>新时代的工具</li></ul></li><li>工具有什么好处？<ul><li>能力</li><li>效率</li><li>管理</li></ul></li><li>怎样用工具？<ul><li>模式</li><li>技巧</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个贴计划写我关于工具的理解，&lt;br&gt;大纲：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;什么是工具？&lt;ul&gt;
+&lt;li&gt;历史&lt;/li&gt;
+&lt;li&gt;新时代的工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;工具有什么好处？&lt;ul&gt;
+&lt;li&gt;能力&lt;/li&gt;
+&lt;li&gt;效率&lt;/li&gt;
+&lt;li&gt;管理&lt;/l
+      
+    
+    </summary>
+    
+    
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于求知</title>
+    <link href="http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E6%B1%82%E7%9F%A5/"/>
+    <id>http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E6%B1%82%E7%9F%A5/</id>
+    <published>2019-12-28T06:21:51.000Z</published>
+    <updated>2019-12-28T10:04:47.991Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个贴计划写我关于知识获取的理解，<br>大纲：</p><ul><li>为什么要知识获取？</li><li>如何获取知识？<ul><li>如何阅读</li><li>如何提问</li><li>如何搜索</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个贴计划写我关于知识获取的理解，&lt;br&gt;大纲：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为什么要知识获取？&lt;/li&gt;
+&lt;li&gt;如何获取知识？&lt;ul&gt;
+&lt;li&gt;如何阅读&lt;/li&gt;
+&lt;li&gt;如何提问&lt;/li&gt;
+&lt;li&gt;如何搜索&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -37,9 +109,9 @@
     
     
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
       <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
