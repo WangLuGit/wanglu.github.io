@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-29T07:59:24.302Z</updated>
+  <updated>2019-12-29T08:42:31.362Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>形而下/怎样掌握新软件</title>
+    <title>怎样掌握新软件</title>
     <link href="http://yoursite.com/2019/12/29/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%80%8E%E6%A0%B7%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%BD%AF%E4%BB%B6/"/>
     <id>http://yoursite.com/2019/12/29/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%80%8E%E6%A0%B7%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%BD%AF%E4%BB%B6/</id>
     <published>2019-12-29T07:59:24.302Z</published>
-    <updated>2019-12-29T07:59:24.302Z</updated>
+    <updated>2019-12-29T08:42:31.362Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件是设计给人用的"><a href="#软件是设计给人用的" class="headerlink" title="软件是设计给人用的"></a>软件是设计给人用的</h2><p>软件是工具，工具总是容易被人掌握的。</p><p>所有的软件，即使是专业软件，其目标用户也是人类。</p><p>软件没有使用门槛，不存在智商500以下不准用，专科以下学不会等条件……</p><p>因此，降低用户学习成本是软件界面设计的重要目标，设计师会尽量利用用户已有的知识、习惯来设计界面。</p><p>如左键点击，右键菜单，复制快捷键为<code>Ctrl+C</code>，在多数软件、系统中都是通用的。</p><p>概念如菜单、工具栏、按钮、对话框等等，都是软件中的通用名词。</p><p>此外，大多数软件都有帮助文档，官网有教程，这是开发者写给用户的说明，是学习软件最好的途径。</p><h2 id="对于新软件，要先了解功能"><a href="#对于新软件，要先了解功能" class="headerlink" title="对于新软件，要先了解功能"></a>对于新软件，要先了解功能</h2><p>最简单的方式：阅读官方简介后，依次点开所有菜单和页面，查看其提供的功能。</p><p>软件官网有功能说明、使用帮助，有些甚至带视频教程。软件的专业性越强，其官方文档、说明就越齐全、易读。</p><h2 id="善用搜索"><a href="#善用搜索" class="headerlink" title="善用搜索"></a>善用搜索</h2><p>一些日常软件超级复杂，比如Word。经常会遇到某目标不会实现的情况。善用搜索引擎，可以快速解决问题。</p><h2 id="学习背景知识"><a href="#学习背景知识" class="headerlink" title="学习背景知识"></a>学习背景知识</h2><p>很多软件都需要相关背景知识。</p><p>如PS需要摄影知识才能调好照片，需要平面设计知识才能做出好海报，需要绘画功底才能画出好图。<strong>这一点大家通常没异议。</strong></p><p>如Word需要排版知识才能又快又好地排版，Excel需要数据、统计科学的支持才能做好报表。<strong>但绝大多数人没了解过这些专业知识。</strong></p><p>很多人分不清专业知识和软件使用的区别，偶尔有人请教我说要学PPT，我：要简单了解平面设计（视觉传达）。有人说要学Java做网站，我：至少要入门软件工程（计算机科学）。<strong>通常，大家对此嗤之以鼻。</strong></p><p>对于专业软件的使用，专业知识远比软件使用重要的多、复杂的多。<strong>办公软件也是专业软件。</strong></p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;软件是设计给人用的&quot;&gt;&lt;a href=&quot;#软件是设计给人用的&quot; class=&quot;headerlink&quot; title=&quot;软件是设计给人用的&quot;&gt;&lt;/a&gt;软件是设计给人用的&lt;/h2&gt;&lt;p&gt;软件是工具，工具总是容易被人掌握的。&lt;/p&gt;
+&lt;p&gt;所有的软件，即使是专业软件，其目
+      
     
     </summary>
     
     
+    
+      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
