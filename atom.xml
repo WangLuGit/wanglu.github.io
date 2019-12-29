@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-29T07:47:07.011Z</updated>
+  <updated>2019-12-29T07:59:24.302Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>形而下/怎样掌握新软件</title>
+    <link href="http://yoursite.com/2019/12/29/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%80%8E%E6%A0%B7%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://yoursite.com/2019/12/29/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%80%8E%E6%A0%B7%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%BD%AF%E4%BB%B6/</id>
+    <published>2019-12-29T07:59:24.302Z</published>
+    <updated>2019-12-29T07:59:24.302Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>截屏工具 ShareX</title>
     <link href="http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7%20ShareX/"/>
     <id>http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7%20ShareX/</id>
     <published>2019-12-28T06:21:51.000Z</published>
-    <updated>2019-12-29T07:47:07.011Z</updated>
+    <updated>2019-12-29T07:58:53.972Z</updated>
     
-    <content type="html"><![CDATA[<p>ShareX 一款多功能截图工具。官方网站：<a href="https://getsharex.com/" target="_blank" rel="noopener">https://getsharex.com/</a></p><p>支持截屏、录屏，自定义截屏后动作、上传后动作。</p><p>截屏时，可以添加箭头、序号、马赛克……等等。</p><p>截图工具栏及其截图效果：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-41-10.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-31-37.jpg" alt="图：截屏效果" title="">                </div>                <div class="image-caption">图：截屏效果</div>            </figure><p>主界面概览</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-22-06.gif" alt="图：主界面概览" title="">                </div>                <div class="image-caption">图：主界面概览</div>            </figure><p>如果说QQ截图、系统截图是小刀，那么ShareX则是瑞士军刀。</p><p>一些技巧：</p><ul><li>自定义快捷键可以更舒服的截屏</li><li>配置截图自动上传可以实现云存储，如本文的图片使用了又拍云的对象存储，截屏后可以直接粘贴图片地址</li><li>设置截屏后动作为”图像复制到剪贴板”，就可以直接粘贴进word等软件<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-38-40.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></li></ul><p>少数派的安利贴：<a href="https://zhuanlan.zhihu.com/p/35306206" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/35306206</a> 内有更详细的操作说明</p>]]></content>
+    <content type="html"><![CDATA[<p>ShareX 一款多功能截图工具。官方网站：<a href="https://getsharex.com/" target="_blank" rel="noopener">https://getsharex.com/</a></p><p>支持截屏、录屏，自定义截屏后动作、上传后动作。</p><p>截屏时，可以添加箭头、序号、马赛克……等等。</p><p>截图工具栏及其截图效果：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-41-10.jpg" alt="图：截屏时的工具栏" title="">                </div>                <div class="image-caption">图：截屏时的工具栏</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-31-37.jpg" alt="图：截屏示例" title="">                </div>                <div class="image-caption">图：截屏示例</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-22-06.gif" alt="图：主界面概览" title="">                </div>                <div class="image-caption">图：主界面概览</div>            </figure><p>如果说QQ截图、系统截图是小刀，那么ShareX则是瑞士军刀。</p><p>一些技巧：</p><ul><li>自定义快捷键可以更舒服的截屏</li><li>配置截图自动上传可以实现云存储，如本文的图片使用了又拍云的对象存储，截屏后可以直接粘贴图片地址</li><li>设置截屏后动作为”图像复制到剪贴板”，就可以直接粘贴进word等软件<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-38-40.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></li><li>制作软件教程时，它提供的箭头、序号等及其实用（如上图）</li><li>右键任务栏图标，就可以使用大部分功能，如打开截图文件夹</li></ul><p>推荐阅读：</p><ul><li><a href="https://zhuanlan.zhihu.com/p/35306206" target="_blank" rel="noopener">少数派：一个软件，满足你所有的截图需求：ShareX</a></li><li><a href="https://www.zhihu.com/question/28427456" target="_blank" rel="noopener">知乎：Windows下有什么好用、功能强大的截图工具？</a></li></ul>]]></content>
     
     <summary type="html">
     
