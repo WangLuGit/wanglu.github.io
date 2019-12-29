@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-28T10:04:51.004Z</updated>
+  <updated>2019-12-29T07:47:07.011Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,74 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于工具</title>
-    <link href="http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E5%B7%A5%E5%85%B7/"/>
-    <id>http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E5%B7%A5%E5%85%B7/</id>
+    <title>截屏工具 ShareX</title>
+    <link href="http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7%20ShareX/"/>
+    <id>http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7%20ShareX/</id>
     <published>2019-12-28T06:21:51.000Z</published>
-    <updated>2019-12-28T10:04:51.004Z</updated>
+    <updated>2019-12-29T07:47:07.011Z</updated>
     
-    <content type="html"><![CDATA[<p>这个贴计划写我关于工具的理解，<br>大纲：</p><ul><li>什么是工具？<ul><li>历史</li><li>新时代的工具</li></ul></li><li>工具有什么好处？<ul><li>能力</li><li>效率</li><li>管理</li></ul></li><li>怎样用工具？<ul><li>模式</li><li>技巧</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>ShareX 一款多功能截图工具。官方网站：<a href="https://getsharex.com/" target="_blank" rel="noopener">https://getsharex.com/</a></p><p>支持截屏、录屏，自定义截屏后动作、上传后动作。</p><p>截屏时，可以添加箭头、序号、马赛克……等等。</p><p>截图工具栏及其截图效果：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-41-10.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-31-37.jpg" alt="图：截屏效果" title="">                </div>                <div class="image-caption">图：截屏效果</div>            </figure><p>主界面概览</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-22-06.gif" alt="图：主界面概览" title="">                </div>                <div class="image-caption">图：主界面概览</div>            </figure><p>如果说QQ截图、系统截图是小刀，那么ShareX则是瑞士军刀。</p><p>一些技巧：</p><ul><li>自定义快捷键可以更舒服的截屏</li><li>配置截图自动上传可以实现云存储，如本文的图片使用了又拍云的对象存储，截屏后可以直接粘贴图片地址</li><li>设置截屏后动作为”图像复制到剪贴板”，就可以直接粘贴进word等软件<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-38-40.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></li></ul><p>少数派的安利贴：<a href="https://zhuanlan.zhihu.com/p/35306206" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/35306206</a> 内有更详细的操作说明</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这个贴计划写我关于工具的理解，&lt;br&gt;大纲：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;什么是工具？&lt;ul&gt;
-&lt;li&gt;历史&lt;/li&gt;
-&lt;li&gt;新时代的工具&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;工具有什么好处？&lt;ul&gt;
-&lt;li&gt;能力&lt;/li&gt;
-&lt;li&gt;效率&lt;/li&gt;
-&lt;li&gt;管理&lt;/l
+        &lt;p&gt;ShareX 一款多功能截图工具。官方网站：&lt;a href=&quot;https://getsharex.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://getsharex.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;支持截屏、录屏，自定义截屏后动作、
       
     
     </summary>
     
     
     
-      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
       <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
     
-  </entry>
-  
-  <entry>
-    <title>关于求知</title>
-    <link href="http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E6%B1%82%E7%9F%A5/"/>
-    <id>http://yoursite.com/2019/12/28/%E5%85%B3%E4%BA%8E%E6%B1%82%E7%9F%A5/</id>
-    <published>2019-12-28T06:21:51.000Z</published>
-    <updated>2019-12-28T10:04:47.991Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个贴计划写我关于知识获取的理解，<br>大纲：</p><ul><li>为什么要知识获取？</li><li>如何获取知识？<ul><li>如何阅读</li><li>如何提问</li><li>如何搜索</li></ul></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;这个贴计划写我关于知识获取的理解，&lt;br&gt;大纲：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;为什么要知识获取？&lt;/li&gt;
-&lt;li&gt;如何获取知识？&lt;ul&gt;
-&lt;li&gt;如何阅读&lt;/li&gt;
-&lt;li&gt;如何提问&lt;/li&gt;
-&lt;li&gt;如何搜索&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      
-    
-    </summary>
-    
-    
-    
       <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
     
   </entry>
   
@@ -109,9 +64,9 @@
     
     
     
-      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
-    
       <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
     
   </entry>
   
