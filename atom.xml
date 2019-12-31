@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-30T01:54:11.159Z</updated>
+  <updated>2019-12-30T14:47:34.192Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,61 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>怎样掌握新软件</title>
-    <link href="http://yoursite.com/2019/12/30/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E6%80%8E%E6%A0%B7%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%BD%AF%E4%BB%B6/"/>
-    <id>http://yoursite.com/2019/12/30/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E6%80%8E%E6%A0%B7%E6%8E%8C%E6%8F%A1%E6%96%B0%E8%BD%AF%E4%BB%B6/</id>
-    <published>2019-12-30T14:48:06.234Z</published>
-    <updated>2019-12-30T01:54:11.159Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="软件是设计给人用的"><a href="#软件是设计给人用的" class="headerlink" title="软件是设计给人用的"></a>软件是设计给人用的</h2><p>软件是工具，工具总是容易被人掌握的。</p><p>所有的软件，即使是专业软件，其目标用户也是人类。</p><p>软件没有使用门槛，不存在智商500以下不准用，专科以下学不会等条件……</p><p>因此，降低用户学习成本是软件界面设计的重要目标，设计师会尽量利用用户已有的知识、习惯来设计界面。</p><p>如左键点击，右键菜单，复制快捷键为<code>Ctrl+C</code>，在多数软件、系统中都是通用的。</p><p>概念如菜单、工具栏、按钮、对话框等等，都是软件中的通用名词。</p><p>此外，大多数软件都有帮助文档，官网有教程，这是开发者写给用户的说明，是学习软件最好的途径。</p><h2 id="对于新软件，要先了解功能"><a href="#对于新软件，要先了解功能" class="headerlink" title="对于新软件，要先了解功能"></a>对于新软件，要先了解功能</h2><p>最简单的方式：阅读官方简介后，依次点开所有菜单和页面，查看其提供的功能。</p><p>软件官网有功能说明、使用帮助，有些甚至带视频教程。软件的专业性越强，其官方文档、说明就越齐全、易读。</p><h2 id="善用搜索"><a href="#善用搜索" class="headerlink" title="善用搜索"></a>善用搜索</h2><p>一些日常软件超级复杂，比如Word。经常会遇到某目标不会实现的情况。善用搜索引擎，可以快速解决问题。</p><h2 id="学习背景知识"><a href="#学习背景知识" class="headerlink" title="学习背景知识"></a>学习背景知识</h2><p>很多软件都需要相关背景知识。</p><p>如PS需要摄影知识才能调好照片，需要平面设计知识才能做出好海报，需要绘画功底才能画出好图。<strong>这一点大家通常没异议。</strong></p><p>如Word需要排版知识才能又快又好地排版，Excel需要数据、统计科学的支持才能做好报表。<strong>但绝大多数人没了解过这些专业知识。</strong></p><p>很多人分不清专业知识和软件使用的区别，偶尔有人请教我说要学PPT，我：要简单了解平面设计（视觉传达）。有人说要学Java做网站，我：至少要入门软件工程（计算机科学）。<strong>通常，大家对此嗤之以鼻。</strong></p><p>对于专业软件的使用，专业知识远比软件使用重要的多、复杂的多。<strong>办公软件也是专业软件。</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;软件是设计给人用的&quot;&gt;&lt;a href=&quot;#软件是设计给人用的&quot; class=&quot;headerlink&quot; title=&quot;软件是设计给人用的&quot;&gt;&lt;/a&gt;软件是设计给人用的&lt;/h2&gt;&lt;p&gt;软件是工具，工具总是容易被人掌握的。&lt;/p&gt;
-&lt;p&gt;所有的软件，即使是专业软件，其目
-      
-    
-    </summary>
-    
-    
-    
-      <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
-    
-      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何提问</title>
-    <link href="http://yoursite.com/2019/12/30/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E5%A6%82%E4%BD%95%E6%8F%90%E9%97%AE/"/>
-    <id>http://yoursite.com/2019/12/30/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E5%A6%82%E4%BD%95%E6%8F%90%E9%97%AE/</id>
-    <published>2019-12-30T14:48:06.229Z</published>
-    <updated>2019-12-30T01:54:11.158Z</updated>
-    
-    <content type="html"><![CDATA[<p>求知过程中，会提问是一项重要的能力。</p><p>但很多人不会提问。去年常在知乎混，经观察，大多数新问题都因为不会提问而无人问津。</p><p>关于如何提问，已经有一些好文章了：</p><ul><li><a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md" target="_blank" rel="noopener">文章：提问的智慧</a></li><li><a href="https://www.zhihu.com/question/20257007" target="_blank" rel="noopener">知乎：一些中国大陆青年人在公共场合的提问显得质量不高，原因有哪些？</a></li><li><a href="https://www.zhihu.com/question/20378647/answer/15016787" target="_blank" rel="noopener">蘇椰爲什麽宣佈離開知乎？周筠的回答</a></li></ul><p>TODO:我应当将这些文章整理一下，抽一个大纲出来。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;求知过程中，会提问是一项重要的能力。&lt;/p&gt;
-&lt;p&gt;但很多人不会提问。去年常在知乎混，经观察，大多数新问题都因为不会提问而无人问津。&lt;/p&gt;
-&lt;p&gt;关于如何提问，已经有一些好文章了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ryan
-      
-    
-    </summary>
-    
-    
-    
-      <category term="形而上" scheme="http://yoursite.com/tags/%E5%BD%A2%E8%80%8C%E4%B8%8A/"/>
-    
-  </entry>
   
   <entry>
     <title>昨晚我想你</title>
@@ -141,99 +86,6 @@
     
     
       <category term="致青霞" scheme="http://yoursite.com/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
-    
-      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于工具</title>
-    <link href="http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E5%85%B3%E4%BA%8E%E5%B7%A5%E5%85%B7/"/>
-    <id>http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E5%85%B3%E4%BA%8E%E5%B7%A5%E5%85%B7/</id>
-    <published>2019-12-28T06:21:51.000Z</published>
-    <updated>2019-12-30T01:54:11.158Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个贴计划写我关于工具的理解，<br>大纲：</p><ul><li>什么是工具？<ul><li>历史</li><li>新时代的工具</li></ul></li><li>工具有什么好处？<ul><li>能力</li><li>效率</li><li>管理</li></ul></li><li>怎样用工具？<ul><li>模式</li><li>技巧</li></ul></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;这个贴计划写我关于工具的理解，&lt;br&gt;大纲：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;什么是工具？&lt;ul&gt;
-&lt;li&gt;历史&lt;/li&gt;
-&lt;li&gt;新时代的工具&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;工具有什么好处？&lt;ul&gt;
-&lt;li&gt;能力&lt;/li&gt;
-&lt;li&gt;效率&lt;/li&gt;
-&lt;li&gt;管理&lt;/l
-      
-    
-    </summary>
-    
-    
-    
-      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于求知</title>
-    <link href="http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E5%85%B3%E4%BA%8E%E6%B1%82%E7%9F%A5/"/>
-    <id>http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8A/%E5%85%B3%E4%BA%8E%E6%B1%82%E7%9F%A5/</id>
-    <published>2019-12-28T06:21:51.000Z</published>
-    <updated>2019-12-30T01:54:11.158Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个贴计划写我关于知识获取的理解，<br>大纲：</p><ul><li>为什么要知识获取？</li><li>如何获取知识？<ul><li>如何阅读</li><li>如何提问</li><li>如何搜索</li></ul></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;这个贴计划写我关于知识获取的理解，&lt;br&gt;大纲：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;为什么要知识获取？&lt;/li&gt;
-&lt;li&gt;如何获取知识？&lt;ul&gt;
-&lt;li&gt;如何阅读&lt;/li&gt;
-&lt;li&gt;如何提问&lt;/li&gt;
-&lt;li&gt;如何搜索&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>截屏工具 ShareX</title>
-    <link href="http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7%20ShareX/"/>
-    <id>http://yoursite.com/2019/12/28/%E5%BD%A2%E8%80%8C%E4%B8%8B/%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7%20ShareX/</id>
-    <published>2019-12-28T06:21:51.000Z</published>
-    <updated>2019-12-30T01:54:11.159Z</updated>
-    
-    <content type="html"><![CDATA[<p>ShareX 一款多功能截图工具。官方网站：<a href="https://getsharex.com/" target="_blank" rel="noopener">https://getsharex.com/</a></p><p>支持截屏、录屏，自定义截屏后动作、上传后动作。</p><p>截屏时，可以添加箭头、序号、马赛克……等等。</p><p>截图工具栏及其截图效果：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-41-10.jpg" alt="图：截屏时的工具栏" title="">                </div>                <div class="image-caption">图：截屏时的工具栏</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/ShareX_2019-12-29_15-31-37.jpg" alt="图：截屏示例" title="">                </div>                <div class="image-caption">图：截屏示例</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-22-06.gif" alt="图：主界面概览" title="">                </div>                <div class="image-caption">图：主界面概览</div>            </figure><p>如果说QQ截图、系统截图是小刀，那么ShareX则是瑞士军刀。</p><p>一些技巧：</p><ul><li>自定义快捷键可以更舒服的截屏</li><li>配置截图自动上传可以实现云存储，如本文的图片使用了又拍云的对象存储，截屏后可以直接粘贴图片地址</li><li>设置截屏后动作为”图像复制到剪贴板”，就可以直接粘贴进word等软件<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://pic.wanglu.name/2019-12-29_15-38-40.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></li><li>制作软件教程时，它提供的箭头、序号等及其实用（如上图）</li><li>右键任务栏图标，就可以使用大部分功能，如打开截图文件夹</li></ul><p>推荐阅读：</p><ul><li><a href="https://zhuanlan.zhihu.com/p/35306206" target="_blank" rel="noopener">少数派：一个软件，满足你所有的截图需求：ShareX</a></li><li><a href="https://www.zhihu.com/question/28427456" target="_blank" rel="noopener">知乎：Windows下有什么好用、功能强大的截图工具？</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;ShareX 一款多功能截图工具。官方网站：&lt;a href=&quot;https://getsharex.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://getsharex.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;支持截屏、录屏，自定义截屏后动作、
-      
-    
-    </summary>
-    
-    
     
       <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
