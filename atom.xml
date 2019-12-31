@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wanglu.name/"/>
-  <updated>2019-12-31T05:33:58.134Z</updated>
+  <updated>2019-12-31T05:39:40.180Z</updated>
   <id>http://blog.wanglu.name/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>README</title>
-    <link href="http://blog.wanglu.name/2019/12/31/README/"/>
-    <id>http://blog.wanglu.name/2019/12/31/README/</id>
-    <published>2019-12-31T05:33:58.134Z</published>
-    <updated>2019-12-31T05:33:58.134Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><p>笔记本</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Note&quot;&gt;&lt;a href=&quot;#Note&quot; class=&quot;headerlink&quot; title=&quot;Note&quot;&gt;&lt;/a&gt;Note&lt;/h1&gt;&lt;p&gt;笔记本&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>如何提问</title>
