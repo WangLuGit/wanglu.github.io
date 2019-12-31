@@ -187,8 +187,8 @@
     <title>序</title>
     <link href="http://blog.wanglu.name/2019/12/28/blog/%E5%BA%8F/"/>
     <id>http://blog.wanglu.name/2019/12/28/blog/%E5%BA%8F/</id>
-    <published>2019-12-28T06:00:00.000Z</published>
-    <updated>2019-12-31T05:39:40.113Z</updated>
+    <published>2019-12-28T01:00:00.000Z</published>
+    <updated>2019-12-31T05:48:34.203Z</updated>
     
     <content type="html"><![CDATA[<p>昨天跟青霞谈到小工具的使用，我觉得一言两语说不清，还是要小篇幅的示例说明比较有效。便兴起了写博客的想法。</p><p>这不是我第一次建博客，之前几次都因为胸无点墨无疾而终。这次我以为可以从小工具的使用着手写一些，这些文字应该有保留价值，至少应当比大部分网传教程有意义。</p><p>无论是学习、工作还是日常，良好运用工具可以极大提升效率。但很多人不知道有啥工具、怎么用。我有必要站出来，贡献一些废话。</p><p>目前计划的内容：</p><ul><li>给青霞的工具推荐和使用说明</li><li>给青霞写日常</li></ul><p>如果能坚持写30篇，我就把它提上日常，做搜索引擎优化。</p><p>献给青霞</p><p>璐<br>19.12.28</p>]]></content>
     
@@ -203,8 +203,10 @@
     </summary>
     
     
+      <category term="博客" scheme="http://blog.wanglu.name/categories/%E5%8D%9A%E5%AE%A2/"/>
     
-      <category term="随笔" scheme="http://blog.wanglu.name/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="致青霞" scheme="http://blog.wanglu.name/categories/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
+    
     
       <category term="致青霞" scheme="http://blog.wanglu.name/tags/%E8%87%B4%E9%9D%92%E9%9C%9E/"/>
     
